@@ -146,4 +146,5 @@ The application relies on a strictly normalized 3NF schema. The primary tables i
 - **Supabase** for providing an incredible backend-as-a-service and Edge Functions.
 - **PayPal & Resend** for seamless payment and communication integrations.
 - The 10 student participants who provided valuable feedback during our User Acceptance Testing (UAT) phase.
+- NPark is a smart university parking management system
 
