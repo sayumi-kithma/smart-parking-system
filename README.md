@@ -147,3 +147,8 @@ The application relies on a strictly normalized 3NF schema. The primary tables i
 - **PayPal & Resend** for seamless payment and communication integrations.
 - The 10 student participants who provided valuable feedback during our User Acceptance Testing (UAT) phase.
 
+- Of course! You can add this one-line project description:
+
+NPark is a smart university parking management system that digitizes vehicle registration, parking reservations, payments, security monitoring, and penalty management through a centralized web platform.
+
+
